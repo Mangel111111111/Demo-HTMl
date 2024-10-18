@@ -1,0 +1,14 @@
+header, footer{
+    background-color:coral;
+}
+
+.principal{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkviolet;
+    background-color: aquamarine;
+}
+.fearsomeDog{
+width: 500px;
+}
